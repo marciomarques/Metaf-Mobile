@@ -75,3 +75,7 @@ h4 span, h5 span{
   font-size: 12px;
   font-weight: 300;
 }
+
+.divide{
+  border-bottom: 1px solid black;
+}
