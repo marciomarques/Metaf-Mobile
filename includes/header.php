@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -31,6 +30,12 @@
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
     <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
     <link rel="shortcut icon" href="../assets/ico/favicon.png">
+    <script>
+    function goBack()
+      {
+      window.history.back()
+      }
+    </script>
   </head>
 
   <body>
@@ -43,50 +48,22 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <div class="span3 logo">
+        <div class="logo pull-left">
             <img src="assets/logo.png" alt="logo" width="158" height="34">
-          </div>  
+        </div>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="index.html">Loja</a></li>
-              <li><a href="#">Quiosque</a></li>
-              <li><a href="#">Ambiente Comercial</a></li>
-              <li><a href="#">Mobiliário Comercial</a></li>
+              <li class="active"><a href="index.php">Loja</a></li>
+              <li><a href="quiosque.php">Quiosque</a></li>
+              <li><a href="ambiente.php">Ambiente Comercial</a></li>
+              <li><a href="mobiliario.php">Mobiliário Comercial</a></li>
               <li><a href="#">Comunicação Visual</a></li>
               <li><a href="#">Container</a></li>
               <li class="divide"></li>
               <li><a href="empresa.html">Empresa</a></li>
-              <li><a href="contato.html">Contato</a></li>
+              <li><a href="#">Contato</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
       </div>
     </div>
-
-   
-    <div class="container">
-      <div class="row span12"> 
-        <div class="span6">
-          <div class="mais-detalhes span6">
-            <h4>Cliente: <span>Nike</span></h4>
-            <h5>Projeto: <span>CDC</span></h5>
-          </div> 
-          <p><a class="btn btn-inverse btn-large btn-block" href="index.html">Voltar</a></p>
-          <img src="assets/loja/dt/1.jpg" alt="1" width="430" height="339">
-          <img src="assets/loja/dt/2.jpg" alt="2" width="430" height="339">
-          <img src="assets/loja/dt/3.jpg" alt="3" width="430" height="339">
-          <img src="assets/loja/1.jpg" alt="4" width="430" height="339"> 
-          <p><a class="btn btn-inverse btn-large btn-block" href="index.html">Voltar</a></p>
-        </div>
-      </div>
-    </div> 
-
-
-       <!-- Le javascript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
-    <script src="assets/bootstrap.js"></script>
-
-  </body>
-</html>
