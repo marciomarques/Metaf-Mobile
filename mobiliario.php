@@ -71,7 +71,7 @@ include("includes/header.php");
           </a>
           <a class="produtos" href="mobiliario-16.php">
             <div class="mais">Mais</div>
-            <img src="assets/mobiliario/17.jpg" alt="11" width="100%" height="100%">
+            <img src="assets/mobiliario/16.jpg" alt="11" width="100%" height="100%">
           </a>
           <a class="produtos" href="mobiliario-17.php">
             <div class="mais">Mais</div>
