@@ -53,15 +53,15 @@
         </div>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="index.php">Loja</a></li>
+              <li><a href="index.php">Loja</a></li>
               <li><a href="quiosque.php">Quiosque</a></li>
               <li><a href="ambiente.php">Ambiente Comercial</a></li>
               <li><a href="mobiliario.php">Mobiliário Comercial</a></li>
-              <li><a href="comunicacao-visual.php">Comunicação Visual</a></li>
+              <li><a href="comunicacao.php">Comunicação Visual</a></li>
               <li><a href="container.php">Container</a></li>
-              <li class="divide"></li>
-              <li><a href="empresa.html">Empresa</a></li>
-              <li><a href="#">Contato</a></li>
+              <!-- <li class="divide"></li> -->
+              <li class="active"><a href="empresa.php">Empresa</a></li>
+              <li><a href="contato.php">Contato</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
