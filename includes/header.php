@@ -8,20 +8,20 @@
     <meta name="author" content="">
 
     <!-- Le styles -->
-    <link href="../assets/css/bootstrap.css" rel="stylesheet">
+    <link href="/mobile/assets/css/bootstrap.css" rel="stylesheet">
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
       }
     </style>
     
-    <link href="assets/bootstrap.min.css" rel="stylesheet">
-    <link href="assets/bootstrap-responsive.css" rel="stylesheet">
-    <link href="assets/one-page-ui.css" rel="stylesheet">
+    <link href="/mobile/assets/bootstrap.min.css" rel="stylesheet">
+    <link href="/mobile/assets/bootstrap-responsive.css" rel="stylesheet">
+    <link href="/mobile/assets/one-page-ui.css" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-      <script src="../assets/js/html5shiv.js"></script>
+      <script src="/assets/js/html5shiv.js"></script>
     <![endif]-->
 
     <!-- Fav and touch icons -->

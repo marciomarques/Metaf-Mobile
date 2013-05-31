@@ -9,10 +9,7 @@ include("includes/header.php");
       <p class="lead">Container</p>
       <div class="row">
         <div>
-          <!-- <a class="produtos" href="container-1.php">
-            <div class="mais">Mais</div>
-            <img src="assets/container/1.jpg" alt="1" width="100%" height="100%">
-          </a> -->
+          <iframe src="http://player.vimeo.com/video/65636474?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
           <a class="produtos" href="container-2.php">
             <div class="mais">Mais</div>
             <img src="assets/container/2.jpg" alt="2" width="100%" height="100%">
